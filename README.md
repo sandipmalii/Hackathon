@@ -39,7 +39,7 @@ I was responsible for the **frontend development** of our project, including:
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)  
+- JavaScript  
 - Git & GitHub  
 
 ---
